@@ -1,0 +1,2 @@
+# brave-payments-verification
+must
